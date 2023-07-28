@@ -1,3 +1,1 @@
-
-
-# This page contains files from the publication by Stachowiak at all  "A massive alteration of gene expression in undescended canine testes and the association of the KAT6A variant with cryptorchidism". 
+Repository for supplemental Excel files from the submitted manuscript by Stachowiak et al. entitled "A massive alteration of gene expression in undescended canine testes and the association of the KAT6A variant with cryptorchidism". 
